@@ -35,8 +35,3 @@ const kTextFieldDecoration = InputDecoration(
     borderRadius: BorderRadius.all(Radius.circular(32.0)),
   ),
 );
-
-const kSpinkit = SpinKitRotatingCircle(
-  color: Colors.white,
-  size: 50.0,
-);

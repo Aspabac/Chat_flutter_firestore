@@ -15,7 +15,7 @@ class FlashChat extends StatelessWidget {
       builder: (context, snapshot) {
         // Check for errors
         if (snapshot.hasError) {
-          return Container(color: Colors.white);
+          return Container(color: Colors.red);
         }
         // Once complete, show your application
         if (snapshot.connectionState == ConnectionState.done) {
@@ -30,7 +30,7 @@ class FlashChat extends StatelessWidget {
           );
         }
         // Otherwise, show something whilst waiting for initialization to complete
-        return Container(color: Colors.blueGrey);
+        return Container(color: Colors.white);
       },
     );
   }
