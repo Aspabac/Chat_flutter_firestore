@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "942089936199",
+    "firebase_url": "https://flash-chat-flutter-759f4.firebaseio.com",
+    "project_id": "flash-chat-flutter-759f4",
+    "storage_bucket": "flash-chat-flutter-759f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942089936199:android:7565883222227663864062",
+        "android_client_info": {
+          "package_name": "com.daigo.flutter_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942089936199-0v7ium3mu5022nl0rrlj5nd391k9o91r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1x-XZa05dAZS9GwDpUmEh0lc2gzX1W3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942089936199-0v7ium3mu5022nl0rrlj5nd391k9o91r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
